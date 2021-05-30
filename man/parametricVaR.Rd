@@ -30,8 +30,7 @@ Jorion P. (2007): "Portfolio Risk: Analytical Methods" in "Value at Risk", McGra
 }
 \author{Gatti Riccardo, Lin Francesco}
 \note{
-Reminder: the central assumption under this function states that underlying market variables is normally distributed.\cr
-This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.
+Reminder: the central assumption under this function states that underlying market variables is normally distributed. This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.
 }
 \seealso{
 \code{\link{parametricES}}
