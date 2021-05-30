@@ -32,8 +32,7 @@ Due to the multidimensional nature of this metric we would not suggest using mul
 \author{Gatti Riccardo, Lin Francesco}
 \note{
 The function can be run for a portfolio with a single exposure, but there will be a single value for "Component ES" and "Relative-Component ES".\cr
-Reminder: the central assumption under this function states that underlying market variables is normally distributed.\cr
-This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.
+Reminder: the central assumption under this function states that underlying market variables is normally distributed. This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.
 }
 \seealso{
 \code{\link{parametricVaR}}
