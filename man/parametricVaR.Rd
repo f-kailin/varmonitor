@@ -31,8 +31,7 @@ Jorion P. (2007): "Portfolio Risk: Analytical Methods" in "Value at Risk", McGra
 \author{Gatti Riccardo, Lin Francesco}
 \note{
 Reminder: the central assumption under this function states that underlying market variables is normally distributed.\cr
-This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.\cr
-In practice, this is not the case since market variables have fatter tails than the normal distribution, so the model's estimate tends to lead to VaR estimates that are too low.
+This involves assuming a model for the joint distribution of changes in the market variables and using historical data to estimate the model parameters.
 }
 \seealso{
 \code{\link{parametricES}}
