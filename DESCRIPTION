@@ -5,5 +5,5 @@ Version: 0.1.8
 Date: 2021-05-08
 Author: Gatti Riccardo, Lin Francesco
 Maintainer: Lin Francesco <fkl@francescolin.com>
-Description: The package provides tools to estimate the Value-at-Risk and Expected Shortfall according to the parametric and analitical approach under the following assumptions: no time-varying volatility or changes market variables are following a normal distribution.
+Description: The package provides tools to estimate the Value-at-Risk and Expected Shortfall according to the parametric and analitical approach under the following assumptions: no time-varying volatility and changes in market variables are following a normal distribution.
 License: GPL-3
