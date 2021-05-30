@@ -1,0 +1,5 @@
+export("analyticES")
+export("analyticVaR")
+export("parametricES")
+export("parametricVaR")
+importFrom("stats", "qnorm")

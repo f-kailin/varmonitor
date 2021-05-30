@@ -1,0 +1,9 @@
+Package: varmonitor
+Type: Package
+Title: Risk management tools: Value-at-Risk monitor
+Version: 0.1.8
+Date: 2021-05-08
+Author: Gatti Riccardo, Lin Francesco
+Maintainer: <fkl@francescolin.com>
+Description: Given a portfolio of securities and their volatilities, the package provide tools to estimate the Value-at-Risk and Expected Shortfall according to the parametric and analytical approach under the following assumptions: no time-varying volatility; changes of the market variables are normally distributed.
+License: GPL-3
