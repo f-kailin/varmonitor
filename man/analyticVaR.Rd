@@ -27,6 +27,7 @@ Due to the multidimensional nature of this metric we would not suggest using mul
 \value{"Delta VaR", "Component VaR" in monetary terms and "Relative-Component VaR" in decimals.}
 \references{
   Hull J.C. (2015): "Value-at-Risk and Expected Shortfall" in "Risk Management and Financial Institutions", Wiley.\cr
+  Hull J.C. (2015): "Model-Building Approach" in "Risk Management and Financial Institutions", Wiley.\cr
   Jorion P. (2007): "Portfolio Risk: Analytical Methods" in "Value at Risk", McGraw-Hill.
 }
 \author{Gatti Riccardo, Lin Francesco}
