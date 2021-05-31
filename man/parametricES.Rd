@@ -25,7 +25,7 @@ It is also scalable with vectors containing multiple confidence intervals and/or
 }
 \value{Expected Shortfall of a portfolio of "N" assets in monetary terms.}
 \references{
-Artzner P., Delbaen F., Eber J.M., Heath D. (1999): Coherent Measures of Risk in Mathematical Finance, 9th vol, Wiley.\cr
+Artzner P., Delbaen F., Eber J.M., Heath D. (1999): "Coherent Measures of Risk" in "Mathematical Finance", 9th vol, Wiley.\cr
 Hull J.C. (2015): "Value-at-Risk and Expected Shortfall" in "Risk Management and Financial Institutions", Wiley.\cr
 Jorion P. (2007): "Portfolio Risk: Analytical Methods" in "Value at Risk", McGraw-Hill.
 }
