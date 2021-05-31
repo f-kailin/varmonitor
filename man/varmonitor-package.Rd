@@ -19,9 +19,10 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{varmonitor}
 }
 \references{
-Artzner P., Delbaen F., Eber J.M., Heath D. (1999) - Coherent Measures of Risk in Mathematical Finance, 9th vol, Wiley.\cr
-Hull J.C. (2015) - "Value-at-Risk and Expected Shortfall" in "Risk Management and Financial Institutions", Wiley.\cr
-Jorion P. (2007) - "Portfolio Risk: Analytical Methods" in "Value at Risk", McGraw-Hill.
+Artzner P., Delbaen F., Eber J.M., Heath D. (1999): Coherent Measures of Risk in Mathematical Finance, 9th vol, Wiley.\cr
+Hull J.C. (2015): "Value-at-Risk and Expected Shortfall" in "Risk Management and Financial Institutions", Wiley.\cr
+Hull J.C. (2015): "Model-Building Approach" in "Risk Management and Financial Institutions", Wiley.\cr
+Jorion P. (2007): "Portfolio Risk: Analytical Methods" in "Value at Risk", McGraw-Hill.
 }
 \keyword{ package }
 \seealso{
